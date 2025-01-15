@@ -1,6 +1,6 @@
-# Parameter Regularization and Memory Augmentation
+# Parameter Regularization and Dynamic Memory
 
-Codes for our paper "[Improving Continual Relation Extraction via Parameter Regularization and Memory Augmentation]"
+Codes for our paper "[Improving Continual Relation Extraction via Parameter Regularization and Dynamic Memory]"
 
 # Environment
 
