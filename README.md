@@ -8,8 +8,8 @@ Codes for our paper "[Improving Continual Relation Extraction via Parameter Regu
 - Torch >= 1.5.0
 
 ```
-conda create -n prma python=3.8
-conda activate prma
+conda create -n prdm python=3.8
+conda activate prdm
 pip install -r requirements.txt
 ```
 
@@ -23,6 +23,6 @@ pip install -r requirements.txt
 # Run
 
 ```
-bash bash/prma.sh
+bash bash/prdm.sh
 
 ```
